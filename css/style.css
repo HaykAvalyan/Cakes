@@ -1,0 +1,196 @@
+.head1 {
+    background: #ffe6bd;
+    
+}
+
+.menyu {
+   margin-top: 50px; 
+}
+
+.menyu1 {
+    background-color: #f9f9f9 !important;
+    border-radius: 50px !important;
+    border: 1px solid #e8e5df !important;
+}
+.fonts {
+    font-family: 'Kaushan Script', cursive ;
+}
+
+.brend {
+    color: #c28714 !important;
+    font-size: 31px !important;
+}
+
+.menyu3 {
+    color: #896947 !important;
+}
+
+.par {
+    color: #896947 !important;
+    float: right;
+    margin-top: 8px;
+    font-size: 22px;
+}
+
+.para {
+    margin-top: 50px;
+}
+
+.parag {
+    color: #6c4925;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.parag span {
+    color: #d7b897;
+    font-size: 12px;
+    font-weight: 100; 
+}
+
+.imag {
+    color: #946c42;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.imag span {
+    color: #d7b897;
+    font-size: 10px;
+    font-style: italic;
+}
+.coke5 {
+    margin-top: 47px;
+}
+.coke4 {
+    margin-top: 41px;
+    margin-bottom: 17px;
+}
+
+.coke3 {
+    margin-top: 41px;
+    margin-bottom: 1px;
+}
+
+.cake2 {
+    margin-top: 34px;
+}
+
+.cake1 {
+       margin-top: 22px;
+ 
+}
+
+.para2 {
+    margin-top: 80px;
+}
+
+.hed {
+    color: #6c4925;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.linc {
+    color: #d7b897 !important;
+    text-decoration: underline;
+}
+
+.lorem {
+    color: #b7926c;
+}
+
+.lor {
+    margin-top: 79px;
+}
+#colr {
+    color: #be4c7d;
+    font-size: 44px;
+    font-weight: 600;
+}
+#lorem {
+    font-size: 22px;
+}
+
+.text {
+    margin-top: 15px;
+    color: #b7926c;
+}
+
+.text1 {
+    color: #9b754d;
+}
+
+.image1 {
+    float: right;
+}
+
+#pure {
+    margin-top: 25px;
+}
+
+.butt {
+    background-color: #70383e !important;
+    border: none !important;
+    border-radius: 5px !important;
+    position: absolute !important;
+    height: 32px;
+    width: 100px;
+    left: 387px;
+    float: left;
+}
+
+.sub {
+    float: left;
+}
+
+.forma {
+    color: #c6a785;
+    width: 480px ;
+    height: 33px ;
+    border-radius: 5px ;
+}
+
+.spa {
+    color: #b79478 !important;
+}
+
+.line {
+    color: #d2d2d2;
+    width: 80%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.menu5 {
+    list-style: none;
+    color: #b7926c ;
+    width: 100%;
+    position: absolute;
+    left: -26px;
+}
+
+.menu6  a{
+    padding-right: 10px;
+    color: #b7926c !important;
+    float: left;
+}
+.menu6 {
+    float: left;
+}
+
+foot {
+    float: right;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+foot i {
+    
+    font-size: 20px;
+}
+
+f-col {
+    color: #785129 !important;
+}
